@@ -5,6 +5,7 @@
 3. Braniac
 4. Joker
 5. Darkside
+6. Harley Quinn
 
 
 # Notas
