@@ -18,6 +18,7 @@ dsdsdsd5644
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
+📄 Nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
 ## El Consejo de Villanos
