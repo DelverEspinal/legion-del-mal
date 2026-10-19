@@ -19,6 +19,7 @@ dsdsdsd5644
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 Nuevas-misiones.yaml    → Estado global de las nuevas misiones
+📄 README.md        → Documentacion principal del repositorio
 ```
 
 ## El Consejo de Villanos
