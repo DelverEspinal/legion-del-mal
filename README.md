@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal !!
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
