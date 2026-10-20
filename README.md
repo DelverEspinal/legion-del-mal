@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🦹‍♂️ La Legión del Mal - Desde remoto y local
+# 🦹‍♂️ La Legión del Mal
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
