@@ -1,4 +1,6 @@
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde local
+
+### Este es un grupo dedicado a aprender Git + Github
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-red)
 
