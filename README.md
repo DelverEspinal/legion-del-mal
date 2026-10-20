@@ -8,7 +8,7 @@
 ![Release](https://img.shields.io/github/v/release/Delvervarela/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Delvervarela/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Delvervarela/legion-del-mal)
-![Licencia](https://img.shields.io/github/LICENSE/Delvervarela/legion-del-mal?cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/Delvervarela/legion-del-mal!cacheSeconds=60)
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
