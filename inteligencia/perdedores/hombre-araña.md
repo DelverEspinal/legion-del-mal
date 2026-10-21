@@ -1,6 +1,6 @@
 # Hombre Araña
 
-# Habilidades
+## Habilidades
 
 1.....
 2....
